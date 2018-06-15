@@ -1,5 +1,7 @@
 module.exports = {
   themeConfig: {
+    search: false,
+    lastUpdated: 'Last Updated', // string | boolean
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Guide', link: '/guide/' },
