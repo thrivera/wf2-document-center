@@ -18,8 +18,8 @@ module.exports = {
         title: 'Crowdfunding',
         collapsable: false,
         children: [
-          '/crowdfunding',
-          '/cfhistory'
+          '/cfhistory',
+          '/crowdfunding'
         ]
       },
       {
