@@ -14,8 +14,14 @@ module.exports = {
     ],
     sidebar: [
       '/',
-      '/crowdfunding',
-      '/cfhistory',
+      {
+        title: 'Crowdfunding',
+        collapsable: false,
+        children: [
+          '/crowdfunding',
+          '/cfhistory'
+        ]
+      },
       {
         title: 'FAQs',
         collapsable: false,
