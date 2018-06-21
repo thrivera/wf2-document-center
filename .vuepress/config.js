@@ -32,7 +32,8 @@ module.exports = {
           '/sub/terms',
           '/sub/policy',
           '/sub/investoragreement',
-          '/sub/startupagreement'
+          '/sub/startupagreement',
+          '/sub/econtent'
         ]
       }
     ]
