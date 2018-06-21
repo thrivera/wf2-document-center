@@ -30,7 +30,9 @@ module.exports = {
         collapsable: false,
         children: [
           '/sub/terms',
-          '/sub/policy'
+          '/sub/policy',
+          '/sub/investoragreement',
+          '/sub/startupagreement'
         ]
       }
     ]
