@@ -27,15 +27,10 @@ These Terms govern the Use of the Services
     1. If you believe that your copyright in any material has been infringed by material available on the Service, please provide us with all of the following information in the form prescribed by Section 512 of Title 17, United States Code:
 
         - a description of the copyrighted work you claim has been infringed,
-
         - a description of the material that you claim is infringing, identified with sufficient detail for us to identify it,
-
         - your address, telephone number and email address,
-
         - a statement by you that you have a good faith belief that the disputed use is not authorized,
-
         - a physical or electronic signature of the person authorized to act on behalf of the copyright owner's interest, and
-
         - a statement that the information in the notification is accurate, and under penalty of perjury, that you are authorized to act on behalf of the owner of the copyrighted work that is claimed to be infringed.
 
     2. It is Wunderfund's policy to terminate, under appropriate circumstances, the account of users who are determined to be repeat infringers.
