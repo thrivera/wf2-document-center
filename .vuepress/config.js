@@ -3,9 +3,9 @@ module.exports = {
     search: false,
     lastUpdated: 'Last Updated', // string | boolean
     nav: [
-      { text: 'About', link: '/about' },
+      { text: 'About', link: '/sub/about' },
       { text: 'Contribute', link: 'https://github.com/thrivera/wf2-document-center' },
-      { text: 'Contact Us!', link: '/contact' }
+      { text: 'Contact Us!', link: '/sub/contact' }
     ],
     sidebar: [
       '/',
@@ -13,24 +13,24 @@ module.exports = {
         title: 'Crowdfunding',
         collapsable: false,
         children: [
-          '/cf/cfhistory',
-          '/cf/crowdfunding'
+          '/sub/history',
+          '/sub/crowdfunding'
         ]
       },
       {
         title: 'FAQs',
         collapsable: false,
         children: [
-          '/faq/investor',
-          '/faq/issuer'
+          '/sub/investor',
+          '/sub/issuer'
         ]
       },
       {
         title: 'Legal',
         collapsable: false,
         children: [
-          '/legal/terms',
-          '/legal/policy'
+          '/sub/terms',
+          '/sub/policy'
         ]
       }
     ]
