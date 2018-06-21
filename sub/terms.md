@@ -43,9 +43,9 @@ These Terms govern the Use of the Services
 
         1100 Sycamore Street, 7th Floor, Cincinnati, OH 45202
 
-        (513) 767-7159
+        [(513) 767-7159](tel:5137677159)
 
-        marvin@wunderfund.co
+        [marvin@wunderfund.co](mailto:marvin@wunderfund.co)
 
     5. If you feel that any of your content was improperly removed or made unavailable to other users, please contact Wunderfund at the contact information above.
 
@@ -79,7 +79,7 @@ These Terms govern the Use of the Services
 
     2. If you and Wunderfund cannot resolve any dispute after 30 days, the party seeking to pursue a claim will submit the claim to arbitration consistent with this section. The parties understand that they would have had a right or opportunity to litigate disputes through a court and to have a judge or jury decide their case, but they choose to have any disputes resolved through arbitration.
 
-    3. Any claim or dispute between you and Wunderfund, and any claim by either against any agent, employee, successor, or assign of the other, including third parties, whether related to these Terms or otherwise, including past, present, and future claims and disputes, and including any dispute as to the validity or applicability of this arbitration clause, shall be resolved by binding arbitration administered by theJAMS under its rules and procedures in effect when the claim is filed. The rules and procedures and other information, including information on fees, may be obtained from the JAMS website or by calling JAMS at 949-224-1810.
+    3. Any claim or dispute between you and Wunderfund, and any claim by either against any agent, employee, successor, or assign of the other, including third parties, whether related to these Terms or otherwise, including past, present, and future claims and disputes, and including any dispute as to the validity or applicability of this arbitration clause, shall be resolved by binding arbitration administered by the JAMS under its rules and procedures in effect when the claim is filed. The rules and procedures and other information, including information on fees, may be obtained from the [JAMS website](http://www.jamsadr.com) or by calling JAMS at [949-224-1810](tel:9492241810).
 
     4. You and Wunderfund each agree that any arbitration will be solely between you and us, not as part of a classwide claim. If any court or arbitrator determines that this classwide restriction is unconscionable or unenforceable, then our agreement to arbitrate does not apply and the classwide dispute must be brought in court.
 
@@ -91,7 +91,7 @@ These Terms govern the Use of the Services
 
 23. **Jury Trial Waiver**. TO THE EXTENT ALLOWED BY LAW, YOU AND WUNDERFUND EACH WAIVE ANY RIGHT TO TRIAL BY JURY IN ANY LAWSUIT, ARBITRATION OR OTHER PROCEEDING.
 
-24. **Termination**. You may terminate your account at any time by contacting Wunderfund at support@Wunderfund.co. If you terminate your account, you remain obligated to pay all outstanding fees, if any, incurred prior to termination relating to your use of the Services. If you violate any provisions of these Terms, your permission from Wunderfund to use the Services will terminate automatically. In addition, Wunderfund may in its sole discretion terminate your user account for the Services or suspend or terminate your access to the Services at any time for any reason or no reason, with or without notice. Wunderfund also reserves the right to modify or discontinue the Services at any time (including by limiting or discontinuing certain features of the Service), temporarily or permanently, without notice to you. We will have no liability whatsoever on account of any change to the Service or any suspension or termination of your access to or use of the Services.
+24. **Termination**. You may terminate your account at any time by contacting Wunderfund at [taylor@Wunderfund.co](mailto:taylor@wunderfund.co). If you terminate your account, you remain obligated to pay all outstanding fees, if any, incurred prior to termination relating to your use of the Services. If you violate any provisions of these Terms, your permission from Wunderfund to use the Services will terminate automatically. In addition, Wunderfund may in its sole discretion terminate your user account for the Services or suspend or terminate your access to the Services at any time for any reason or no reason, with or without notice. Wunderfund also reserves the right to modify or discontinue the Services at any time (including by limiting or discontinuing certain features of the Service), temporarily or permanently, without notice to you. We will have no liability whatsoever on account of any change to the Service or any suspension or termination of your access to or use of the Services.
 
 25. **Governing Law; Venue**. These Terms and the use of the Services will be governed by Ohio law without regard for its conflict of laws principles. For any claims not subject to the arbitration provisions of these Terms, all claims arising out of relating to these Terms or the Services must be litigated in the state or federal courts located in Cincinnati, Ohio and you and Wunderfund consent to the personal jurisdiction of such courts.
 

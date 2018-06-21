@@ -52,7 +52,7 @@ Thrivera Ventures Fund I, LLC (d/b/a Wunderfund) ("Wunderfund" or "we"), recogni
     2. To enforce our agreements, policies, or Terms of Use, and
     3. To respond to an emergency which we believe in good faith requires us to disclose such information to assist in preventing the death or serious bodily injury of any person.
 
-    _Banks and Partners_. In order to provide the services connected with the Services, we may share your information with our third-party partners, such as banks, portfolio companies, investment banking firms, accountants, and similar entities. We use services such as North Capital Private Securities, our registered escrow agent, which you can read their privacy policy here.
+    _Banks and Partners_. In order to provide the services connected with the Services, we may share your information with our third-party partners, such as banks, portfolio companies, investment banking firms, accountants, and similar entities. We use services such as [North Capital Private Securities](https://www.northcapital.com), our registered escrow agent, which you can read their privacy policy [here](http://www.northcapital.com/wp-content/uploads/2015/12/North-Capital%E2%80%99s-Commitment-to-Privacy.pdf).
 
     _Users and Groups_. Upon your request, we share information with users and groups with whom you have chosen to share information.
 
