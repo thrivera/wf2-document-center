@@ -21,6 +21,7 @@ module.exports = {
         title: 'FAQs',
         collapsable: false,
         children: [
+          '/sub/offering',
           '/sub/investor',
           '/sub/issuer'
         ]
