@@ -3,12 +3,12 @@ module.exports = {
     search: false,
     lastUpdated: 'Last Updated', // string | boolean
     nav: [
+      { text: 'Home', link: '/' },
       { text: 'About', link: '/sub/about' },
       { text: 'Contribute', link: 'https://github.com/thrivera/wf2-document-center' },
       { text: 'Contact Us!', link: '/sub/contact' }
     ],
     sidebar: [
-      '/',
       {
         title: 'Crowdfunding',
         collapsable: false,
