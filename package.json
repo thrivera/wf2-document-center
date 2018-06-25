@@ -1,0 +1,16 @@
+{
+  "name": "wf2-doc-center",
+  "version": "1.0.0",
+  "description": "Content-based site for all documentation on Wunderfund",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:build": "vuepress build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vuepress": "^0.10.0"
+  }
+}
