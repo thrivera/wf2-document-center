@@ -1,8 +1,8 @@
 # About Us
 
-## Why did we create Wunderfund?
+## Why we created Wunderfund
 
-People are really excited about fast growing new companies, whether they are breweries, tech companies, fast casual restaurants, or new software apps. They're creating beautiful products, transforming neighborhoods, creating jobs, and revitalizing the economy. And here in the heart of America's Great Midwest, there are as many as 50,000 startups like these with a great story to tell.
+People are really excited about fast-growing new companies, whether they are breweries, tech startups, fast casual restaurants, or new software apps. They're creating beautiful products, transforming neighborhoods, creating jobs, and revitalizing the economy. In the heart of America's Great Midwest, there are as many as 50,000 startups like these with a great story to tell.
 
 The problem is that many of them need capital, and it's getting harder to raise funding, whether it be from banks, angels, or institutions. The bottom line is that there isn't enough capital accessible to them.
 
@@ -18,10 +18,8 @@ Marvin Abrinica
 
 CEO, Co-Founder
 
-Facebook
-Twitter
-LinkedIn
-Email
+[LinkedIn](https://www.linkedin.com/in/marvinabrinica)
+[Email](mailto:marvin@wunderfund.co)
 
 ![Morgan](https://wunderfund.co/wp-content/uploads/2017/10/morgan.png)
 
@@ -29,10 +27,8 @@ Morgan Kane
 
 Lead Designer, Co-Founder
 
-Facebook
-Twitter
-LinkedIn
-Email
+[LinkedIn](https://www.linkedin.com/in/morgankane)
+[Email](mailto:morgan@wunderfund.co)
 
 ![Justin](https://wunderfund.co/wp-content/uploads/2017/10/justin.png)
 
@@ -40,19 +36,8 @@ Justin Chiou
 
 Lead Developer, Co-Founder
 
-Facebook
-Twitter
-LinkedIn
-Email
-
-![Jonathon](https://wunderfund.co/wp-content/uploads/2017/10/jon.png)
-
-Jonathon Whaley
-
-Compliance Manager
-
-LinkedIn
-Email
+[LinkedIn](https://www.linkedin.com/in/justinchiou)
+[Email](mailto:justin@wunderfund.co)
 
 ![JM](https://wunderfund.co/wp-content/uploads/2017/10/jm.png)
 
@@ -60,6 +45,14 @@ John Michael Griffith
 
 Lead Financier and Operations
 
-Facebook
-LinkedIn
-Email
+[LinkedIn](https://www.linkedin.com/in/john-michael-griffith-ab7412142)
+[Email](mailto:jm@wunderfund.co)
+
+![Jonathon](https://wunderfund.co/wp-content/uploads/2017/10/jon.png)
+
+Jonathon Whaley
+
+Compliance Manager
+
+[LinkedIn](https://www.linkedin.com/in/jon-whaley-iaccp-b4b9537)
+[Email](mailto:jonathon.whaley@gmail.com)
