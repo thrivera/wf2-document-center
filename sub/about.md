@@ -18,8 +18,7 @@ Marvin Abrinica
 
 CEO, Co-Founder
 
-[LinkedIn](https://www.linkedin.com/in/marvinabrinica)
-[Email](mailto:marvin@wunderfund.co)
+[Email](mailto:marvin@wunderfund.co) - [LinkedIn](https://www.linkedin.com/in/marvinabrinica)
 
 ![Morgan](https://wunderfund.co/wp-content/uploads/2017/10/morgan.png)
 
@@ -27,8 +26,7 @@ Morgan Kane
 
 Lead Designer, Co-Founder
 
-[LinkedIn](https://www.linkedin.com/in/morgankane)
-[Email](mailto:morgan@wunderfund.co)
+[Email](mailto:morgan@wunderfund.co) - [LinkedIn](https://www.linkedin.com/in/morgankane)
 
 ![Justin](https://wunderfund.co/wp-content/uploads/2017/10/justin.png)
 
@@ -36,8 +34,7 @@ Justin Chiou
 
 Lead Developer, Co-Founder
 
-[LinkedIn](https://www.linkedin.com/in/justinchiou)
-[Email](mailto:justin@wunderfund.co)
+[Email](mailto:justin@wunderfund.co) - [LinkedIn](https://www.linkedin.com/in/justinchiou)
 
 ![JM](https://wunderfund.co/wp-content/uploads/2017/10/jm.png)
 
@@ -45,8 +42,7 @@ John Michael Griffith
 
 Lead Financier and Operations
 
-[LinkedIn](https://www.linkedin.com/in/john-michael-griffith-ab7412142)
-[Email](mailto:jm@wunderfund.co)
+[Email](mailto:jm@wunderfund.co) - [LinkedIn](https://www.linkedin.com/in/john-michael-griffith-ab7412142)
 
 ![Jonathon](https://wunderfund.co/wp-content/uploads/2017/10/jon.png)
 
@@ -54,5 +50,4 @@ Jonathon Whaley
 
 Compliance Manager
 
-[LinkedIn](https://www.linkedin.com/in/jon-whaley-iaccp-b4b9537)
-[Email](mailto:jonathon.whaley@gmail.com)
+[Email](mailto:jonathon.whaley@gmail.com) - [LinkedIn](https://www.linkedin.com/in/jon-whaley-iaccp-b4b9537)
