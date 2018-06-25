@@ -1,4 +1,6 @@
 module.exports = {
+  title: 'Wunderfund',
+  description: 'Equity Crowdfunding in the Midwest',
   themeConfig: {
     search: false,
     lastUpdated: 'Last Updated', // string | boolean
