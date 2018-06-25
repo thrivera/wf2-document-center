@@ -5,8 +5,9 @@ module.exports = {
     nav: [
       { text: 'Home', link: '/' },
       { text: 'About', link: '/sub/about' },
-      { text: 'Contribute', link: 'https://github.com/thrivera/wf2-document-center' },
-      { text: 'Contact Us!', link: '/sub/contact' }
+      { text: 'Jobs', link: '/sub/job' },
+      { text: 'Contact Us!', link: '/sub/contact' },
+      { text: 'Contribute', link: 'https://github.com/thrivera/wf2-document-center' }
     ],
     sidebar: [
       {
